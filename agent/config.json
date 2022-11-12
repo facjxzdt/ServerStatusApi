@@ -1,0 +1,7 @@
+{
+  "Server": "http://127.0.0.1:8000",
+  "Password": "123456",
+  "Version": "v0.1",
+  "Name": "test",
+  "Time": 2
+}
